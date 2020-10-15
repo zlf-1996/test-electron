@@ -1,0 +1,18 @@
+{
+  "name": "test-electron",
+  "version": "1.0.0",
+  "description": "测试electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "zlf",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^10.1.3"
+  },
+  "dependencies": {
+    "update-electron-app": "^2.0.1"
+  }
+}
